@@ -142,7 +142,7 @@ var style11 = {
 		 
 
 
-	var cal2= L.geoJSON(cal3, {
+	var cal2= L.geoJSON(cal2, {
 	style: style3,
     
   }).addTo(map)  
